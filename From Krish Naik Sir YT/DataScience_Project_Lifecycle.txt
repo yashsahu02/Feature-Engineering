@@ -1,0 +1,29 @@
+Life cycle of a Data Science Projects --->
+
+1. Data Collection Strategy ->
+- from company side, 3rd party API's, Survays
+
+2. Feature Engineering ->
+- Handling Missing Values
+(Try to understand and find why values are missing)
+
+For Example in any survay people will not fill any specific thing so it will be missing value 
+
+Why are their missing vlaues -- Survay in a company
+- They hesitate to put donw the information.
+- Survay info are not that valid.
+- Men is not insterested to fill salary.
+- Women is not insterested to disclose age.
+
+* In Data Science project -- Dataset should be collected from multipl sources *
+
+What are the different types of missing data -->
+
+
+Data that will be missing -->
+1. Continuous Data (height = 3.4 meter)
+
+
+
+2. Categorical Data
+3. 
